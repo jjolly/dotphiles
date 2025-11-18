@@ -1,4 +1,4 @@
 #!/bin/bash
 
 sudo apt update
-sudo apt install -y --no-install-recommends neovim apt-file iproute2 inetutils-ping
+sudo apt install -y --no-install-recommends neovim apt-file iproute2 inetutils-ping tmux
